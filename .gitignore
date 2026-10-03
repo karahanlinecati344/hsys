@@ -196,3 +196,4 @@ data/
 # Results of benchmarks
 results/
 charts/
+.zed/
