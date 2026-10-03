@@ -194,6 +194,4 @@ data/
 .Trash-*
 
 # Results of benchmarks
-results/
-charts/
 .zed/
